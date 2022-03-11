@@ -1,0 +1,8 @@
+E:\bridgelabz\RFP-Day-13\day_13_generics_uc1\bin\Debug\day_13_generics_uc1.exe.config
+E:\bridgelabz\RFP-Day-13\day_13_generics_uc1\bin\Debug\day_13_generics_uc1.exe
+E:\bridgelabz\RFP-Day-13\day_13_generics_uc1\bin\Debug\day_13_generics_uc1.pdb
+E:\bridgelabz\RFP-Day-13\day_13_generics_uc1\obj\Debug\day_13_generics_uc1.csproj.AssemblyReference.cache
+E:\bridgelabz\RFP-Day-13\day_13_generics_uc1\obj\Debug\day_13_generics_uc1.csproj.SuggestedBindingRedirects.cache
+E:\bridgelabz\RFP-Day-13\day_13_generics_uc1\obj\Debug\day_13_generics_uc1.csproj.CoreCompileInputs.cache
+E:\bridgelabz\RFP-Day-13\day_13_generics_uc1\obj\Debug\day_13_generics_uc1.exe
+E:\bridgelabz\RFP-Day-13\day_13_generics_uc1\obj\Debug\day_13_generics_uc1.pdb
